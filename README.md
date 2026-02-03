@@ -27,7 +27,9 @@ Aplicación Django para gestión colaborativa de contenido.
 - Soporte multimedia (URL / archivo, miniaturas automáticas).  
 - Slugs automáticos y control de duplicados.  
 - Manejo de errores y ~82 tests automatizados.  
-> Repo privado por el momento — se publicará cuando el perfil esté listo.
+
+🔗 **Repositorio:** https://github.com/emamarin256-tech/Wiki-Facundo-Cabral
+
 
 ---
 
