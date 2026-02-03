@@ -14,7 +14,7 @@ Estudiante de programación orientado a backend con Python y Django. Autor de un
 - **Framework:** Django  
 - **Frontend (básico):** HTML, CSS  
 - **Base de datos:** SQLite  
-- **Herramientas:** Git, GitHub, CKEditor 5, testing en Django
+- **Herramientas:** Git, GitHub, testing en Django
 
 ---
 
